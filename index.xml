@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacktoberfest</title>
+    <link>https://nchlswhttkr.github.io/hacktoberfest-2019/</link>
+    <description>Recent content on Hacktoberfest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://nchlswhttkr.github.io/hacktoberfest-2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with a pull request</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/contribute/</guid>
+      <description>Ready to add yourself to the list of participants? To add our profile to https://nchlswhttkr.github.io/hacktoberfest-2019, we&amp;rsquo;ll be making our pull request (abbreviated PR).
+Before you begin, you will need a GitHub account and to have Git installed on your computer.
+This tutorial will use the Git CLI, but you&amp;rsquo;re welcome to use a Git GUI client or to use GitHub directly. We&amp;rsquo;ll only be creating a single file with our PR.</description>
+    </item>
+    
+    <item>
+      <title>Hacktoberfest 2019</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/about/</guid>
+      <description>Welcome to Hacktoberfest with MonSec and [WIRED]https://wired.org.au)!
+If you&amp;rsquo;re looking to get started with making your own pull request and adding yourself to the participants list, head straight to the Getting started with a pull request page!
+You can also find out more about Hacktoberfest at https://hacktoberfest.digitalocean.com!
+https://opensource.guide/how-to-contribute/
+Thanks to JuniorDev and GitHub for providing swag and helpful Git resources!
+https://github.com/juniordevio/hacktoberfest-halloween-graffiti
+https://github.com/josh-/juniordev-hacktoberfest/
+https://github.com/josh-/juniordev-hacktoberfest/</description>
+    </item>
+    
+    <item>
+      <title>Nicholas Whittaker</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nchlswhttkr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nchlswhttkr/</guid>
+      <description>My name is Nicholas!
+I&amp;rsquo;m studying a Bachelor of Computer Science, and I&amp;rsquo;m in my final year!
+You can find out more about on my personal website or on my GitHub profile!</description>
+    </item>
+    
+  </channel>
+</rss>

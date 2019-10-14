@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Participants on Hacktoberfest</title>
+    <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/</link>
+    <description>Recent content in Participants on Hacktoberfest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://nchlswhttkr.github.io/hacktoberfest-2019/participants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nicholas Whittaker</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nchlswhttkr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nchlswhttkr/</guid>
+      <description>My name is Nicholas!
+I&amp;rsquo;m studying a Bachelor of Computer Science, and I&amp;rsquo;m in my final year!
+You can find out more about on my personal website or on my GitHub profile!</description>
+    </item>
+    
+  </channel>
+</rss>
